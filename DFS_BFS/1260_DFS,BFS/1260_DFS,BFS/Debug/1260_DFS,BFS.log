@@ -1,0 +1,4 @@
+﻿  dfs,bfs.cpp
+C:\Algorithm\BaekJoon_Projects\DFS_BFS\1260_DFS,BFS\1260_DFS,BFS\dfs,bfs.cpp(35,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Algorithm\BaekJoon_Projects\DFS_BFS\1260_DFS,BFS\1260_DFS,BFS\dfs,bfs.cpp(52,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  1260_DFS,BFS.vcxproj -> C:\Algorithm\BaekJoon_Projects\DFS_BFS\1260_DFS,BFS\Debug\1260_DFS,BFS.exe

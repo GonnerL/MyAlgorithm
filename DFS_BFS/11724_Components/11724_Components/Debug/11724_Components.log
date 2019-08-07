@@ -1,0 +1,3 @@
+﻿  components.cpp
+C:\Algorithm\BaekJoon_Projects\DFS_BFS\11724_Components\11724_Components\components.cpp(34,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  11724_Components.vcxproj -> C:\Algorithm\BaekJoon_Projects\DFS_BFS\11724_Components\Debug\11724_Components.exe
