@@ -1,0 +1,5 @@
+﻿  sumOfPrimeNum.cpp
+C:\Algorithm\BaekJoon_Projects\BruteForce\1644_SumOfPrimeNum\1644_SumOfPrimeNum\sumOfPrimeNum.cpp(40,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Algorithm\BaekJoon_Projects\BruteForce\1644_SumOfPrimeNum\1644_SumOfPrimeNum\sumOfPrimeNum.cpp(43,14): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Algorithm\BaekJoon_Projects\BruteForce\1644_SumOfPrimeNum\1644_SumOfPrimeNum\sumOfPrimeNum.cpp(47,14): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  1644_SumOfPrimeNum.vcxproj -> C:\Algorithm\BaekJoon_Projects\BruteForce\1644_SumOfPrimeNum\Debug\1644_SumOfPrimeNum.exe
