@@ -1,0 +1,6 @@
+﻿  startAndLink.cpp
+C:\Algorithm\BaekJoon_Projects\BruteForce\14889_StartAndLink\14889_StartAndLink\startAndLink.cpp(26,20): warning C4018:  '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Algorithm\BaekJoon_Projects\BruteForce\14889_StartAndLink\14889_StartAndLink\startAndLink.cpp(26,45): warning C4018:  '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Algorithm\BaekJoon_Projects\BruteForce\14889_StartAndLink\14889_StartAndLink\startAndLink.cpp(40,19): warning C4018:  '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Algorithm\BaekJoon_Projects\BruteForce\14889_StartAndLink\14889_StartAndLink\startAndLink.cpp(40,44): warning C4018:  '>': signed 또는 unsigned가 일치하지 않습니다.
+  14889_StartAndLink.vcxproj -> C:\Algorithm\BaekJoon_Projects\BruteForce\14889_StartAndLink\Debug\14889_StartAndLink.exe
